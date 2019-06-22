@@ -1,0 +1,21 @@
+#first ,#navi ,#second {
+    color: white;
+    text-decoration: none;
+}
+#first {
+        background: red;
+        height: 100px;
+    }
+#navi {
+        background: blueviolet;
+        height: 50px;
+        text-align: center;
+        padding: 10px;
+        position: sticky;
+        top: 0;
+    }
+#second {
+        background: blue;
+        height: 1000vh;
+    
+    }
